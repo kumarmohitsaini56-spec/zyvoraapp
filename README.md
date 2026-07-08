@@ -1,4 +1,4 @@
-# ZyvoraApp
+# Zywash App
 
 ZyvoraApp is an Android application developed using Kotlin and Android Studio. It is designed to provide users with a simple, fast, and user-friendly experience.
 
